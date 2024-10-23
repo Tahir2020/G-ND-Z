@@ -1,2 +1,1 @@
-# G-ND-Z
-Hoşgeldiniz.!
+
