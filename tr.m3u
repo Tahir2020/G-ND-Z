@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
+#EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE"
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912483&extension=ts&play_token=NOgixFRK22
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/916657.png" group-title="TR| TURKIYE",TR| TRT 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=916657&extension=ts&play_token=Rqe8F9ZiW3
