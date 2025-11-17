@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE"
+#EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912483&extension=ts&play_token=NOgixFRK22
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/916657.png" group-title="TR| TURKIYE",TR| TRT 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=916657&extension=ts&play_token=Rqe8F9ZiW3
@@ -75,7 +75,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912445&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912442&extension=ts&play_token=5sC7VEZS0x
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912441.png" group-title="TR| TURKIYE",TR| TURKMENELI TV HD
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912441&extension=ts&play_token=PAl52nuhir
-#EXTINF:-1 tvg-logo="" group-title="TR| AVRUPA & YEREL"
+#EXTINF:-1 tvg-logo="" group-title="TR| AVRUPA & YEREL",##### TR AYRUPA 4K #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912466&extension=ts&play_token=c5LPODmTiE
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912465.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 7 AVRUPA 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912465&extension=ts&play_token=DYPAgUuEaQ
@@ -91,7 +91,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912461&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912460&extension=ts&play_token=4y3kHQxh8i
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912459.png" group-title="TR| AVRUPA & YEREL",TR| KANAL AVRUPA 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912459&extension=ts&play_token=emtC9cefHY
-#EXTINF:-1 tvg-logo="" group-title="TR| AVRUPA & YEREL"
+#EXTINF:-1 tvg-logo="" group-title="TR| AVRUPA & YEREL",##### TR YEREL #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912838&extension=ts&play_token=mmmRftRMnk
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/912836.png" group-title="TR| AVRUPA & YEREL",TR| AKSU TV
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912836&extension=ts&play_token=zu2oJW0ASN
@@ -189,7 +189,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912775&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912774&extension=ts&play_token=spgmIkzprC
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912769.png" group-title="TR| AVRUPA & YEREL",TR| BRT KARADENIZ
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912769&extension=ts&play_token=brdTypIPsi
-#EXTINF:-1 tvg-logo="" group-title="TR| HABER KANALLARI"
+#EXTINF:-1 tvg-logo="" group-title="TR| HABER KANALLARI",##### TR HABER #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912930&extension=ts&play_token=yLbnNxnICH
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912929.png" group-title="TR| HABER KANALLARI",TR| TRT HABER 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912929&extension=ts&play_token=jXQJF18CoB
@@ -287,7 +287,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1796073&e
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1526853&extension=ts&play_token=qov3c9WjL6
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1552760.png" group-title="TR| HABER KANALLARI",TR| EKO TURK TV
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1552760&extension=ts&play_token=tUFf96PS7j
-#EXTINF:-1 tvg-logo="" group-title="TR| MUZIK KANALLARI"
+#EXTINF:-1 tvg-logo="" group-title="TR| MUZIK KANALLARI",##### TR MUZIK #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913033&extension=ts&play_token=lvlxqKuZae
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913032.png" group-title="TR| MUZIK KANALLARI",TR| TRT MUZIK 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913032&extension=ts&play_token=0RdEHf7l41
@@ -331,7 +331,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1548143&e
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1548144&extension=ts&play_token=Vg7jGcV8y8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1548145.png" group-title="TR| MUZIK KANALLARI",TR| ORHAN GENCEBAY
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1548145&extension=ts&play_token=HBIsXE0vfX
-#EXTINF:-1 tvg-logo="" group-title="TR| COCUK & DINI"
+#EXTINF:-1 tvg-logo="" group-title="TR| COCUK & DINI",##### TR COCUK #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913125&extension=ts&play_token=ZHT7hxIpup
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913124.png" group-title="TR| COCUK & DINI",TR| TRT COCUK 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913124&extension=ts&play_token=Odc9kdKk6N
@@ -357,7 +357,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913114&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913113&extension=ts&play_token=OMTcIMBRMz
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913112.png" group-title="TR| COCUK & DINI",TR| NILOYA 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913112&extension=ts&play_token=DwupQQPhLF
-#EXTINF:-1 tvg-logo="" group-title="TR| COCUK & DINI",TR|
+#EXTINF:-1 tvg-logo="" group-title="TR| COCUK & DINI",TR| ##### TR DINI KANALLARI #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913111&extension=ts&play_token=oLZjq9uN14
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913110.png" group-title="TR| COCUK & DINI",TR| SEMERKAND TV 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913110&extension=ts&play_token=kE5LdYdlFY
@@ -377,7 +377,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913105&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913104&extension=ts&play_token=2BVjyLmiaw
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FM-TV.jpeg" group-title="TR| COCUK & DINI",TR| FM TV
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913103&extension=ts&play_token=bkDpqGEsje
-#EXTINF:-1 tvg-logo="" group-title="TR| BELGESEL KANALLARI"
+#EXTINF:-1 tvg-logo="" group-title="TR| BELGESEL KANALLARI",##### TR BELGESEL #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913192&extension=ts&play_token=1r55y4RpIq
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913191.png" group-title="TR| BELGESEL KANALLARI",TR| TRT BELGESEL 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913191&extension=ts&play_token=zzXA69Kx7D
@@ -437,7 +437,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913162&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913161&extension=ts&play_token=pzAJTGISLO
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" group-title="TR| BELGESEL KANALLARI",TR| LOVE NATURE 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913160&extension=ts&play_token=x8IhQK02QV
-#EXTINF:-1 tvg-logo="" group-title="TR| SINEMA KANALLARI"
+#EXTINF:-1 tvg-logo="" group-title="TR| SINEMA KANALLARI",##### TR SINEMA/DIZI #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913334&extension=ts&play_token=qxzd7jF2Tu
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913333.png" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES TURK HD
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913333&extension=ts&play_token=xswV6gpOds
@@ -617,7 +617,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1626856&e
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1796075&extension=ts&play_token=AZCcsRlzB1
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1796074.png" group-title="TR| TURKIYE",TR| YILDIZ TV
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1796074&extension=ts&play_token=zCcN6V1VIh
-#EXTINF:-1 tvg-logo="" group-title="TR| DIZILER VIP"
+#EXTINF:-1 tvg-logo="" group-title="TR| DIZILER VIP",##### DIZILER VIP #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=994199&extension=ts&play_token=7NeUbbdUkG
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/994198.png" group-title="TR| DIZILER VIP",TR| ADı SEVGI FHD
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=994198&extension=ts&play_token=5AwJQzBlDU
@@ -799,7 +799,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=994111&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=994110&extension=ts&play_token=0r1DEaISa9
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/994109.png" group-title="TR| DIZILER VIP",TR| ÖĞRETMEN FHD
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=994109&extension=ts&play_token=PSfNjZZgK2
-#EXTINF:-1 tvg-logo="" group-title="TR| SPOR KANALLARI"
+#EXTINF:-1 tvg-logo="" group-title="TR| SPOR KANALLARI",##### TR SPOR #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913406&extension=ts&play_token=PeALbjSSqe
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913404.png" group-title="TR| SPOR KANALLARI",TR| A SPOR 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913404&extension=ts&play_token=Rc1O3GU28U
@@ -911,7 +911,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1438086&e
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1438087&extension=ts&play_token=nF3r6Rrihe
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="TR| SPOR KANALLARI",TR| FILSPORT 7 PPV
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1438088&extension=ts&play_token=BNrFVXeUBH
-#EXTINF:-1 tvg-logo="" group-title="TR| MAC KANALLARI"
+#EXTINF:-1 tvg-logo="" group-title="TR| MAC KANALLARI",##### TR BEIN SPOR #####
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913462&extension=ts&play_token=YghdC4ezoA
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912885.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=912885&extension=ts&play_token=yqMfnhwAcw
@@ -961,7 +961,7 @@ http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913442&ex
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913451&extension=ts&play_token=uzMWx4AB5G
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 1080
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=913441&extension=ts&play_token=gjNUHO7oG9
-#EXTINF:-1 tvg-logo="" group-title="TR| TABII SPORT"
+#EXTINF:-1 tvg-logo="" group-title="TR| TABII SPORT",####### TABII SPORT ᴿᴬᵂ #######
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1625462&extension=ts&play_token=wqLymayRa9
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1625461.png" group-title="TR| TABII SPORT",TR| TABII SPORT 1 ᴿᴬᵂ
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:5E:DB&stream=1625461&extension=ts&play_token=EoMk3DLVJR
